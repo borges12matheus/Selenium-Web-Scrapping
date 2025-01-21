@@ -25,7 +25,7 @@ Before running the project, ensure you have the following installed:
    ```bash
    pip install selenium
 
-⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 The use of scraping tools must comply with the Terms of Service of Google Flights.
 Scraping automated data can violate site policies and may result in IP bans. Use this project responsibly.
 
