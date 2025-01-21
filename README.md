@@ -25,20 +25,6 @@ Before running the project, ensure you have the following installed:
    ```bash
    pip install selenium
 
-🔧 Setup and Execution
-1. Clone this repository:
-   git clone https://github.com/borges12matheus/Selenium-Web-Scrapping.git
-   cd Selenium-Web-Scrapping
-   
-3. Install the dependencies:
-   pip install -r requirements.txt
-
-4. Download ChromeDriver and configure the path in the main.py file:
-   driver_path = "PATH/TO/CHROMEDRIVER"
-
-5. Run the program:
-   python main.py
-
 ⚠️ Legal Disclaimer
 The use of scraping tools must comply with the Terms of Service of Google Flights.
 Scraping automated data can violate site policies and may result in IP bans. Use this project responsibly.
