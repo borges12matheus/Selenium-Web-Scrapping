@@ -1,0 +1,7 @@
+📂 Project Structure
+Selenium-Web-Scrapping/
+│
+├── main.py              # Main script for running the program
+├── requirements.txt     # Project dependencies
+├── README.md            # Project documentation
+└── output/              # Directory for storing generated XLSX files
