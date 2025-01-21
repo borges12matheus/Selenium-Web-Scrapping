@@ -36,8 +36,8 @@ web-scraping-google-flights/
 
 🔧 Setup and Execution
 1. Clone this repository:
-   git clone https://github.com/yourusername/web-scraping-google-flights.git
-   cd web-scraping-google-flights
+   git clone https://github.com/borges12matheus/Selenium-Web-Scrapping.git
+   cd Selenium-Web-Scrapping
    
 3. Install the dependencies:
    pip install -r requirements.txt
