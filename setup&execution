@@ -1,0 +1,12 @@
+🔧 Setup and Execution
+1. Clone this repository:
+   git clone https://github.com/borges12matheus/Selenium-Web-Scrapping.git
+   cd Selenium-Web-Scrapping
+   
+3. Install the dependencies:
+   pip install -r requirements.txt
+
+4. Download ChromeDriver
+
+5. Run the program:
+   python main.py
