@@ -24,15 +24,6 @@ Before running the project, ensure you have the following installed:
 4. Required Python libraries:
    ```bash
    pip install selenium
-   
-📂 Project Structure
-web-scraping-google-flights/
-│
-├── main.py              # Main script for running the program
-├── utils.py             # Auxiliary functions for processing
-├── requirements.txt     # Project dependencies
-├── README.md            # Project documentation
-└── output/              # Directory for storing generated CSV files
 
 🔧 Setup and Execution
 1. Clone this repository:
