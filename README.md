@@ -6,7 +6,7 @@ This project is a Python program that uses the **Selenium** library to scrape da
 
 - Fetches flight ticket prices for specific routes.
 - Filters flights by date and airline.
-- Saves the scraped data into **CSV** files for analysis.
+- Saves the scraped data into **XLSX** files for analysis.
 
 ## 🛠️ Technologies Used
 
